@@ -1,0 +1,12 @@
+run:
+Masukkan Nama: 
+mior
+Masukkan bilangan hari bekerja: 
+41
+Bilangan hari tidak boleh melebihi 31 hari
+Masukkan bilangan hari bekerja: 
+29
+Rumusan gaji bulanan bagi mior
+Jumlah hari bekerja 29
+GAJI SEBULAN ADALAH 4640
+BUILD SUCCESSFUL (total time: 15 seconds)
